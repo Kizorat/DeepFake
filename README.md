@@ -37,7 +37,7 @@ conda activate env_name
 ## Clonazione della repository
 Puoi scaricare la repository tramite il comando da terminale eseguendo:
 ```
-git clone https://github.com/chiarapuglia99/Deepfake.git
+git clone https://github.com/Kizorat/DeepFake
 ```
 
 ## 📊 Dataset
